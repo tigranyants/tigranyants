@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tigranyants
+- 👋 Hi, I’m Georgiy Tigranyants
 - 👀 I’m interested in Frontend Development Ux/Ui design
 - 🌱 I’m currently learning Frontend Advanced
 - 💞️ I’m looking to collaborate on ...
