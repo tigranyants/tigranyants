@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgiy</h1>
-<h3 align="center">A passionate frontend developer from Turkmenistan</h3>
+<h3 align="center">A passionate UX/UI designer & frontend developer from Turkmenistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigranyants&label=Profile%20views&color=0eb429&style=flat" alt="tigranyants" /> </p>
 
